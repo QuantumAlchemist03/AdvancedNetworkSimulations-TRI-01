@@ -19,10 +19,6 @@ To get started with these simulations:
 
 Contributions are welcome! If you have improvements or corrections to the simulations, please fork the repository and submit a pull request.
 
-## License
-
-This project is released under the MIT License. See the LICENSE file for more details.
-
 ## Contact
 
 If you have any questions or feedback, please don't hesitate to reach out through GitHub issues or directly via email at [your-email-address].
