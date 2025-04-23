@@ -21,6 +21,6 @@ Contributions are welcome! If you have improvements or corrections to the simula
 
 ## Contact
 
-If you have any questions or feedback, please don't hesitate to reach out through GitHub issues or directly via email at [alifsatharofficial2003@gmail.com].
+If you have any questions or feedback, please don't hesitate to reach out through GitHub issues or directly via email at alifsatharofficial2003@gmail.com
 
 Thank you for visiting AdvancedNetworkSimulations. Happy learning!
